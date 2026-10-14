@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OmniBuild</string>
+    <string name="tagline">Multi-Platform App &amp; Desktop Builder</string>
+    <string name="website_tab">موقع ويب</string>
+    <string name="upload_tab">رفع</string>
+    <string name="app_name_label">اسم التطبيق</string>
+    <string name="platform_label">المنصة</string>
+    <string name="continue_button">متابعة</string>
+    <string name="how_it_works_title">كيف يعمل</string>
+</resources>

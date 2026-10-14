@@ -1,0 +1,6 @@
+{
+  "name": "OmniBuild",
+  "description": "Multi-platform app and desktop executable builder for Android, Windows, and Flutter with source packaging, build pipeline tracking, and live logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
